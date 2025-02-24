@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Welcome to My GitHub!
 
-<!--
-**Skyrex30/Skyrex30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 About Me
 
-Here are some ideas to get you started:
+I am passionate about IoT security, embedded systems, networking, and cybersecurity. My projects focus on securing smart home devices, experimenting with firmware security, homelabs, and network protection, and working close to the hardware level.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Key Areas of Interest:
+
+    🔒 IoT Security & Firmware Analysis – Protecting smart home appliances, reverse engineering firmware, and securing embedded systems.
+
+    🌐 Networking & Firewalls – Deploying OpenWRT, OPNSense with Snort IPS, VLANs, VPNs, and monitoring traffic.
+
+    🏗️ Homelab & System Administration – Self-hosting services using Docker, VMs, Linux automation.
+
+    🕵️‍♂️ Pentesting & Reverse Engineering – Attacking virtual machines, working with x86 assembly, and vulnerability research.
+
+    🔌 Electronics & Hardware Hacking – UART programming, EEPROM flashing, Arduino, Raspberry Pi, ESP32 projects.
