@@ -2,11 +2,11 @@
 
 🔧 About Me
 
-I am passionate about IoT security, embedded systems, networking, and cybersecurity. My projects focus on securing smart home devices, experimenting with firmware security, homelabs, and network protection, and working close to the hardware level.
+I am passionate about IoT security, embedded systems, networking, and cybersecurity. My projects focus on securing smart home devices, experimenting with firmware security, homelabs, and network protection, and working close to the hardware level. 
 
 💻 Key Areas of Interest:
 
-    🔒 IoT Security & Firmware Analysis – Protecting smart home appliances, reverse engineering firmware, and securing embedded systems.
+    🔒 IoT Security & Firmware Analysis – Protecting smart home appliances and securing embedded systems.
 
     🌐 Networking & Firewalls – Deploying OpenWRT, OPNSense with Snort IPS, VLANs, VPNs, and monitoring traffic.
 
