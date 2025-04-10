@@ -15,3 +15,5 @@ I am passionate about IoT security, embedded systems, networking, and cybersecur
     🕵️‍♂️ Pentesting & Reverse Engineering – Attacking virtual machines, working with x86 assembly, and vulnerability research.
 
     🔌 Electronics & Hardware Hacking – UART programming, EEPROM flashing, Arduino, Raspberry Pi, ESP32 projects.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyrex_30&layout=compact)
