@@ -16,4 +16,4 @@ I am passionate about IoT security, embedded systems, networking, and cybersecur
 
     🔌 Electronics & Hardware Hacking – UART programming, EEPROM flashing, Arduino, Raspberry Pi, ESP32 projects.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyrex_30&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyrex30&layout=compact)
