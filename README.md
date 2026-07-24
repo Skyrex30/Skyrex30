@@ -11,5 +11,4 @@ I'm passionate about cybersecurity, systems engineering, and building secure, sc
     🏗️ Infrastructure – Docker, VMs, Linux administration, self-hosted services
     🔌 Hardware – Arduino, Raspberry Pi, ESP32, UART, firmware flashing
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyrex30&layout=compact)
-
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Skyrex30)](https://github.com/pranesh-2005/github-readme-stats-fast)
